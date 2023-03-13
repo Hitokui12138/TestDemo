@@ -1,1 +1,7 @@
+#忽略一个文件
 .setting
+/.setting
+.setting/
+#忽略所有.class文件
+*.class
+*.log
